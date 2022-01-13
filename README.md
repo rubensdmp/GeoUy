@@ -1,2 +1,0 @@
-# GeoUy
-Uruguayan Geology
