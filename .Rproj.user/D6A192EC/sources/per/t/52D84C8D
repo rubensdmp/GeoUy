@@ -3,7 +3,7 @@
     "path": "d:/Users/d836148/Dropbox/DataScience/GitHub/GeoUy/FmUyFotosMap.R",
     "project_path": "FmUyFotosMap.R",
     "type": "r_source",
-    "hash": "3509394215",
+    "hash": "414918204",
     "contents": "",
     "dirty": false,
     "created": 1652455892209.0,
@@ -19,12 +19,12 @@
         "rmdVisualModeLocation": "2:0",
         "rmdVisualCollapsedChunks": ""
     },
-    "folds": "0|21|7|0|\n",
-    "lastKnownWriteTime": 1652457192,
+    "folds": "",
+    "lastKnownWriteTime": 1652457334,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1652457192351,
+    "last_content_update": 1654638608886,
     "read_only": false,
     "read_only_alternatives": []
 }
