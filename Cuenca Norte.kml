@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="test" name="test">
+      <SimpleField name="Unnamed: 0" type="string"/>
+      <SimpleField name="terreno" type="string"/>
+      <SimpleField name="formacion" type="string"/>
+      <SimpleField name="lat" type="float"/>
+      <SimpleField name="lon" type="float"/>
+      <SimpleField name="captura" type="string"/>
+      <SimpleField name="nombre" type="string"/>
+      <SimpleField name="descripcion" type="string"/>
+      <SimpleField name="ruta" type="string"/>
+    </Schema>
+    <Schema id="test.schema">
+      <SimpleField name="Unnamed: 0" type="string"/>
+      <SimpleField name="terreno" type="string"/>
+      <SimpleField name="formacion" type="string"/>
+      <SimpleField name="lat" type="float"/>
+      <SimpleField name="lon" type="float"/>
+      <SimpleField name="captura" type="string"/>
+      <SimpleField name="descripcion" type="string"/>
+      <SimpleField name="ruta" type="string"/>
+    </Schema>
+    <Schema id="test.schema">
+      <SimpleField name="Unnamed: 0" type="string"/>
+      <SimpleField name="terreno" type="string"/>
+      <SimpleField name="formacion" type="string"/>
+      <SimpleField name="lat" type="float"/>
+      <SimpleField name="lon" type="float"/>
+      <SimpleField name="descripcion" type="string"/>
+      <SimpleField name="ruta" type="string"/>
+    </Schema>
+    <Schema id="test.schema">
+      <SimpleField name="Unnamed: 0" type="string"/>
+      <SimpleField name="terreno" type="string"/>
+      <SimpleField name="formacion" type="string"/>
+      <SimpleField name="lat" type="float"/>
+      <SimpleField name="lon" type="float"/>
+      <SimpleField name="descripcion" type="string"/>
+      <SimpleField name="ruta" type="string"/>
+    </Schema>
+    <Schema id="test.schema">
+      <SimpleField name="Unnamed: 0" type="string"/>
+      <SimpleField name="terreno" type="string"/>
+      <SimpleField name="formacion" type="string"/>
+      <SimpleField name="lat" type="float"/>
+      <SimpleField name="lon" type="float"/>
+      <SimpleField name="descripcion" type="string"/>
+      <SimpleField name="ruta" type="string"/>
+    </Schema>
+    <Schema id="test.schema">
+      <SimpleField name="Unnamed: 0" type="string"/>
+      <SimpleField name="terreno" type="string"/>
+      <SimpleField name="formacion" type="string"/>
+      <SimpleField name="lat" type="float"/>
+      <SimpleField name="lon" type="float"/>
+      <SimpleField name="descripcion" type="string"/>
+      <SimpleField name="ruta" type="string"/>
+    </Schema>
+    <Schema id="test.schema">
+      <SimpleField name="Unnamed: 0" type="string"/>
+      <SimpleField name="terreno" type="string"/>
+      <SimpleField name="formacion" type="string"/>
+      <SimpleField name="lat" type="float"/>
+      <SimpleField name="lon" type="float"/>
+      <SimpleField name="descripcion" type="string"/>
+      <SimpleField name="ruta" type="string"/>
+    </Schema>
+    <Document id="test">
+      <name>test</name>
+      <Placemark id="test.1">
+        <name>Afloramiento 3.7.02</name>
+        <description><![CDATA[
+
+<img src="https://drive.google.com/uc?id=1dZoklj9pPtYaBiA1hvc5MKbLad1lNitb" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 12:48:55</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">0</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="lat">-32.3893966666667</SimpleData>
+            <SimpleData name="lon">-54.0841979722222</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1dZoklj9pPtYaBiA1hvc5MKbLad1lNitb</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.0841979722222,-32.3893966666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.2">
+        <name>Afloramiento 3.7.01</name>
+        <description><![CDATA[
+
+<img src="https://drive.google.com/uc?id=1iN6p4eIwNkePofoG8cEwfeq_9kcsIlVc" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 12:41:39</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">1</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="lat">-32.3901863055556</SimpleData>
+            <SimpleData name="lon">-54.0847015277778</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1iN6p4eIwNkePofoG8cEwfeq_9kcsIlVc</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.0847015277778,-32.3901863055556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.3">
+        <name>Afloramiento 3.6.04</name>
+        <description><![CDATA[Fm. Cerro Pelado
+
+<img src="https://drive.google.com/uc?id=1vDyuqokUbLo8nsQSX-LB8D7q03TitLL6" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 12:28:07</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">2</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Cerro Pelado</SimpleData>
+            <SimpleData name="lat">-32.3820228333333</SimpleData>
+            <SimpleData name="lon">-54.1053123333333</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1vDyuqokUbLo8nsQSX-LB8D7q03TitLL6</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1053123333333,-32.3820228333333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.4">
+        <name>Afloramiento 3.6.03</name>
+        <description><![CDATA[Fm. Cerro Pelado
+
+<img src="https://drive.google.com/uc?id=1O4h1-FnWd-thFEhloyVqTd62SVDHOTle" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 12:26:55</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">3</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Cerro Pelado</SimpleData>
+            <SimpleData name="lat">-32.3819007777778</SimpleData>
+            <SimpleData name="lon">-54.1055984444444</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1O4h1-FnWd-thFEhloyVqTd62SVDHOTle</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1055984444444,-32.3819007777778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.5">
+        <name>Afloramiento 3.6.02</name>
+        <description><![CDATA[Fm. Cerro Pelado
+
+<img src="https://drive.google.com/uc?id=1L-qaJ-eGtr0L3ZxUl1xiIAksoFIPIpf7" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 12:26:50</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">4</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Cerro Pelado</SimpleData>
+            <SimpleData name="lat">-32.3818778888889</SimpleData>
+            <SimpleData name="lon">-54.1055717222222</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1L-qaJ-eGtr0L3ZxUl1xiIAksoFIPIpf7</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1055717222222,-32.3818778888889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.6">
+        <name>Afloramiento 3.6.01</name>
+        <description><![CDATA[Fm. Cerro Pelado
+
+<img src="https://drive.google.com/uc?id=1HPDBLsg7_K8ac2uYWRf6umaesP2c92ck" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 12:21:26</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">5</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Cerro Pelado</SimpleData>
+            <SimpleData name="lat">-32.3819084166667</SimpleData>
+            <SimpleData name="lon">-54.1060485833333</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1HPDBLsg7_K8ac2uYWRf6umaesP2c92ck</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1060485833333,-32.3819084166667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.7">
+        <name>Afloramiento 3.5.08</name>
+        <description><![CDATA[Fm. Tres Islas
+
+<img src="https://drive.google.com/uc?id=1wL2biR2deKsG-YFpcQL2k_vwmisgs85B" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 11:48:55</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">6</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Tres Islas</SimpleData>
+            <SimpleData name="lat">-32.3964576666667</SimpleData>
+            <SimpleData name="lon">-54.1098556388889</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1wL2biR2deKsG-YFpcQL2k_vwmisgs85B</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1098556388889,-32.3964576666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.8">
+        <name>Afloramiento 3.5.07</name>
+        <description><![CDATA[Fm. Tres Islas
+
+<img src="https://drive.google.com/uc?id=1OzuGL3IDmmo3VyqRu7os-nuo9TwQ53z0" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 11:45:36</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">7</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Tres Islas</SimpleData>
+            <SimpleData name="lat">-32.3967285</SimpleData>
+            <SimpleData name="lon">-54.1097335555556</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1OzuGL3IDmmo3VyqRu7os-nuo9TwQ53z0</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1097335555556,-32.3967285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.9">
+        <name>Afloramiento 3.5.06</name>
+        <description><![CDATA[Fm. Tres Islas
+
+<img src="https://drive.google.com/uc?id=1J_oh9dz4YqRlpyW7bmECSJvMuLxmOnad" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 11:41:00</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">8</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Tres Islas</SimpleData>
+            <SimpleData name="lat">-32.3971214166667</SimpleData>
+            <SimpleData name="lon">-54.1098022222222</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1J_oh9dz4YqRlpyW7bmECSJvMuLxmOnad</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1098022222222,-32.3971214166667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.10">
+        <name>Afloramiento 3.5.05</name>
+        <description><![CDATA[Fm. Tres Islas
+
+<img src="https://drive.google.com/uc?id=1NlxPWhWUxQQc-5Hq6YMG__xpqXaXgrLI" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 11:38:49</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">9</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Tres Islas</SimpleData>
+            <SimpleData name="lat">-32.3970908888889</SimpleData>
+            <SimpleData name="lon">-54.1098785277778</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1NlxPWhWUxQQc-5Hq6YMG__xpqXaXgrLI</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1098785277778,-32.3970908888889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.11">
+        <name>Afloramiento 3.5.04</name>
+        <description><![CDATA[Fm. Tres Islas
+
+<img src="https://drive.google.com/uc?id=1UqjmP86Euu1__FogWs8QYGc_N-T4Petr" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 11:37:27</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">10</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Tres Islas</SimpleData>
+            <SimpleData name="lat">-32.3970375</SimpleData>
+            <SimpleData name="lon">-54.1098403888889</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1UqjmP86Euu1__FogWs8QYGc_N-T4Petr</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1098403888889,-32.3970375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.12">
+        <name>Afloramiento 3.5.03</name>
+        <description><![CDATA[Fm. Tres Islas
+
+<img src="https://drive.google.com/uc?id=1WbkrhLpmp44ZATEcFCSbjfl8s8Cs_ud_" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 11:37:24</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">11</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Tres Islas</SimpleData>
+            <SimpleData name="lat">-32.3970375</SimpleData>
+            <SimpleData name="lon">-54.1098251111111</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1WbkrhLpmp44ZATEcFCSbjfl8s8Cs_ud_</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1098251111111,-32.3970375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.13">
+        <name>Afloramiento 3.5.02</name>
+        <description><![CDATA[Fm. Tres Islas
+
+<img src="https://drive.google.com/uc?id=13nsju2tnX8Aoe6HXsswGRRQlcG--cNXP" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 11:34:36</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">12</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Tres Islas</SimpleData>
+            <SimpleData name="lat">-32.3970908888889</SimpleData>
+            <SimpleData name="lon">-54.1096534722222</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=13nsju2tnX8Aoe6HXsswGRRQlcG--cNXP</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1096534722222,-32.3970908888889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.14">
+        <name>Afloramiento 3.5.01</name>
+        <description><![CDATA[Fm. Tres Islas
+
+<img src="https://drive.google.com/uc?id=1rhXViCbmIvjcAdn_h6NOipzUcR4YQaUq" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 11:31:06</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">13</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Tres Islas</SimpleData>
+            <SimpleData name="lat">-32.39684675</SimpleData>
+            <SimpleData name="lon">-54.1097183055556</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1rhXViCbmIvjcAdn_h6NOipzUcR4YQaUq</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1097183055556,-32.39684675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.15">
+        <name>Afloramiento 3.4.01</name>
+        <description><![CDATA[Contacto Fm. Yaguari - Fm. Buena Vista
+
+<img src="https://drive.google.com/uc?id=11lC9WguuY5khIeHuJ5-sN_2jdylIan6o" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 10:54:07</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">14</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Contacto Fm. Yaguari - Fm. Buena Vista</SimpleData>
+            <SimpleData name="lat">-32.3762740833333</SimpleData>
+            <SimpleData name="lon">-54.2724418611111</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=11lC9WguuY5khIeHuJ5-sN_2jdylIan6o</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.2724418611111,-32.3762740833333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.16">
+        <name>Afloramiento 3.3.02</name>
+        <description><![CDATA[Fm. Buena Vista
+
+<img src="https://drive.google.com/uc?id=1eWg4QCB62cz9RvM-TCET3cvmdlBPFgL8" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 10:36:21</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">15</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Buena Vista</SimpleData>
+            <SimpleData name="lat">-32.3751869166667</SimpleData>
+            <SimpleData name="lon">-54.2767448333333</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1eWg4QCB62cz9RvM-TCET3cvmdlBPFgL8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.2767448333333,-32.3751869166667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.17">
+        <name>Afloramiento 3.3.01</name>
+        <description><![CDATA[Fm. Buena Vista
+
+<img src="https://drive.google.com/uc?id=1G3EwrC-hs-LqH6yS7-zHBs3UqWb0YXE7" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 10:32:06</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">16</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Buena Vista</SimpleData>
+            <SimpleData name="lat">-32.37537</SimpleData>
+            <SimpleData name="lon">-54.2766341944444</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1G3EwrC-hs-LqH6yS7-zHBs3UqWb0YXE7</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.2766341944444,-32.37537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.18">
+        <name>Afloramiento 3.2.01</name>
+        <description><![CDATA[Fm. Cuaró
+
+<img src="https://drive.google.com/uc?id=1SQpg6cxN5p8mXblNYpIDwMS9p6wVE9wK" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 10:20:21</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">17</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Cuaró</SimpleData>
+            <SimpleData name="lat">-32.3784446666667</SimpleData>
+            <SimpleData name="lon">-54.3120574722222</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1SQpg6cxN5p8mXblNYpIDwMS9p6wVE9wK</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.3120574722222,-32.3784446666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.19">
+        <name>Afloramiento 3.1.04</name>
+        <description><![CDATA[Fm. Yaguarí
+
+<img src="https://drive.google.com/uc?id=1wmA3PVzkhmJeBiV_bVVIYKqzRiUlVfNm" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 09:39:29</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">18</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Yaguarí</SimpleData>
+            <SimpleData name="lat">-32.4144477777778</SimpleData>
+            <SimpleData name="lon">-54.3674049166667</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1wmA3PVzkhmJeBiV_bVVIYKqzRiUlVfNm</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.3674049166667,-32.4144477777778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.20">
+        <name>Afloramiento 3.1.03</name>
+        <description><![CDATA[Fm. Yaguarí
+
+<img src="https://drive.google.com/uc?id=1RRU6TV8qDIK4tDw4ga4Z0Dl1xc9HP3dB" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 09:38:03</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">19</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Yaguarí</SimpleData>
+            <SimpleData name="lat">-32.4144134444444</SimpleData>
+            <SimpleData name="lon">-54.3672866666667</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1RRU6TV8qDIK4tDw4ga4Z0Dl1xc9HP3dB</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.3672866666667,-32.4144134444444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.21">
+        <name>Afloramiento 3.1.02</name>
+        <description><![CDATA[Fm. Yaguarí
+
+<img src="https://drive.google.com/uc?id=1lPNal1zID90YkxTw2ZGHH-Sq4ggFFkuc" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 09:37:54</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">20</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Yaguarí</SimpleData>
+            <SimpleData name="lat">-32.41441725</SimpleData>
+            <SimpleData name="lon">-54.3672714166667</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1lPNal1zID90YkxTw2ZGHH-Sq4ggFFkuc</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.3672714166667,-32.41441725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.22">
+        <name>Afloramiento 3.1.01</name>
+        <description><![CDATA[Fm. Yaguarí
+
+<img src="https://drive.google.com/uc?id=1Da_h1nP7dEwaR7TgfceHjESHD9xzOWxa" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:28 09:08:22</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">21</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Yaguarí</SimpleData>
+            <SimpleData name="lat">-32.4137496944444</SimpleData>
+            <SimpleData name="lon">-54.36556625</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1Da_h1nP7dEwaR7TgfceHjESHD9xzOWxa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.36556625,-32.4137496944444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.23">
+        <name>Afloramiento 2.1.03</name>
+        <description><![CDATA[Fm. Buena Vista
+
+<img src="https://drive.google.com/uc?id=1IYIoKOIeLgQI-Ietd6Z0tBFq__amMolt" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:27 17:12:22</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">22</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Buena Vista</SimpleData>
+            <SimpleData name="lat">-32.1496886944444</SimpleData>
+            <SimpleData name="lon">-54.1660041666667</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1IYIoKOIeLgQI-Ietd6Z0tBFq__amMolt</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1660041666667,-32.1496886944444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.24">
+        <name>Afloramiento 2.1.02</name>
+        <description><![CDATA[Fm. Buena Vista
+
+<img src="https://drive.google.com/uc?id=1UfOuLfUuBSTnrAwMZMpG2WfEgi92PazX" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:27 16:55:25</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">23</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Buena Vista</SimpleData>
+            <SimpleData name="lat">-32.2321471944444</SimpleData>
+            <SimpleData name="lon">-54.1674918888889</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1UfOuLfUuBSTnrAwMZMpG2WfEgi92PazX</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1674918888889,-32.2321471944444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.25">
+        <name>Afloramiento 2.1.01</name>
+        <description><![CDATA[Fm. Buena Vista
+
+<img src="https://drive.google.com/uc?id=1OaWkbTBGZzphfJ2NQ4s1wHRldIq6BxK4" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:27 16:39:21</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">24</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Buena Vista</SimpleData>
+            <SimpleData name="lat">-32.2416648611111</SimpleData>
+            <SimpleData name="lon">-54.1659660277778</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1OaWkbTBGZzphfJ2NQ4s1wHRldIq6BxK4</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.1659660277778,-32.2416648611111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.26">
+        <name>Afloramiento 1.2.03</name>
+        <description><![CDATA[Fm. Frayle Muerto
+
+<img src="https://drive.google.com/uc?id=1e04_4dyCBvwgao4ttnA9LGWCNmYJhdph" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 17:44:16</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">25</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Frayle Muerto</SimpleData>
+            <SimpleData name="lat">-32.5248489166667</SimpleData>
+            <SimpleData name="lon">-54.510643</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1e04_4dyCBvwgao4ttnA9LGWCNmYJhdph</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.510643,-32.5248489166667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.27">
+        <name>Afloramiento 1.2.02</name>
+        <description><![CDATA[Fm. Frayle Muerto
+
+<img src="https://drive.google.com/uc?id=11PMNYeWvs-z4ZGbzkZ6QNhyjuwHrdSLL" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 17:38:39</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">26</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Frayle Muerto</SimpleData>
+            <SimpleData name="lat">-32.5252227777778</SimpleData>
+            <SimpleData name="lon">-54.5106811388889</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=11PMNYeWvs-z4ZGbzkZ6QNhyjuwHrdSLL</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5106811388889,-32.5252227777778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.28">
+        <name>Afloramiento 1.2.01</name>
+        <description><![CDATA[Fm. Frayle Muerto
+
+<img src="https://drive.google.com/uc?id=1aHnGS0cYwO6GfLSATUArxVbyuu1p2kuU" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 17:36:33</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">27</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. Frayle Muerto</SimpleData>
+            <SimpleData name="lat">-32.5253829722222</SimpleData>
+            <SimpleData name="lon">-54.5107154722222</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1aHnGS0cYwO6GfLSATUArxVbyuu1p2kuU</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5107154722222,-32.5253829722222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.29">
+        <name>Afloramiento 1.1.11</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1F6pvpITl1uiH7a0PTfQ8y_oKAWn_hNDZ" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 16:39:13</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">28</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6631889366667</SimpleData>
+            <SimpleData name="lon">-54.5734519322222</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1F6pvpITl1uiH7a0PTfQ8y_oKAWn_hNDZ</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5734519322222,-32.6631889366667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.30">
+        <name>Afloramiento 1.1.12</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=17vlUQ7y_navbaoKxdrctRibzBI9qiRa-" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 16:31:47</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">29</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6631889166667</SimpleData>
+            <SimpleData name="lon">-54.5734519722222</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=17vlUQ7y_navbaoKxdrctRibzBI9qiRa-</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5734519722222,-32.6631889166667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.31">
+        <name>Afloramiento 1.1.10</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1uJ9PG6GbyphpnIe3oXGfZDbPgBkVnajq" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 15:36:18</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">31</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6557006686667</SimpleData>
+            <SimpleData name="lon">-54.5816535933333</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1uJ9PG6GbyphpnIe3oXGfZDbPgBkVnajq</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5816535933333,-32.6557006686667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.32">
+        <name>Afloramiento 1.1.09</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1guciH1PNTXRtJlD6ThfBAKju8Lhk3gLh" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 15:27:38</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">32</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6557006666667</SimpleData>
+            <SimpleData name="lon">-54.5816535833333</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1guciH1PNTXRtJlD6ThfBAKju8Lhk3gLh</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5816535833333,-32.6557006666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.33">
+        <name>Afloramiento 1.1.08</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1jG4-YQhldHgpMhsSfG3fT94huqr1VWNS" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 15:26:14</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">33</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.65561675</SimpleData>
+            <SimpleData name="lon">-54.5817451388889</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1jG4-YQhldHgpMhsSfG3fT94huqr1VWNS</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5817451388889,-32.65561675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.34">
+        <name>Afloramiento 1.1.07</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1CLlcOExxDnams9xldFzxfyxghI8qbzy8" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 15:23:49</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">34</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6556015</SimpleData>
+            <SimpleData name="lon">-54.5820083611111</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1CLlcOExxDnams9xldFzxfyxghI8qbzy8</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5820083611111,-32.6556015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.35">
+        <name>Afloramiento 1.1.06</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1DFFsrGsCWjj_nwFGVSrb6HyaJsH6uuxv" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 15:15:34</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">35</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6555175555556</SimpleData>
+            <SimpleData name="lon">-54.5824584722222</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1DFFsrGsCWjj_nwFGVSrb6HyaJsH6uuxv</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5824584722222,-32.6555175555556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.36">
+        <name>Afloramiento 1.1.05</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1Lx-UWdjOtP-Rxa_GeP2Syx54uHkQJFpH" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 14:47:29</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">36</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6559791388889</SimpleData>
+            <SimpleData name="lon">-54.5850562777778</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1Lx-UWdjOtP-Rxa_GeP2Syx54uHkQJFpH</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5850562777778,-32.6559791388889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.37">
+        <name>Afloramiento 1.1.04</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1JYd-7syH3UFVHHG7ay0vc9LZupjpJI8Q" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 14:27:04</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">37</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6567916666667</SimpleData>
+            <SimpleData name="lon">-54.5833396666667</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1JYd-7syH3UFVHHG7ay0vc9LZupjpJI8Q</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5833396666667,-32.6567916666667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.38">
+        <name>Afloramiento 1.1.03</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=10B79qF2IYYfyeMaAa_IIHoxq2rGyroLh" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 12:54:24</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">38</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6582450833333</SimpleData>
+            <SimpleData name="lon">-54.5819320555556</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=10B79qF2IYYfyeMaAa_IIHoxq2rGyroLh</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5819320555556,-32.6582450833333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.39">
+        <name>Afloramiento 1.1.02</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1BjRghSKdaFRGkRvcQex6PCjEKlt8lKeg" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 12:54:12</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">39</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6581420833333</SimpleData>
+            <SimpleData name="lon">-54.5820045277778</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1BjRghSKdaFRGkRvcQex6PCjEKlt8lKeg</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5820045277778,-32.6581420833333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="test.40">
+        <name>Afloramiento 1.1.01</name>
+        <description><![CDATA[Fm. San Gregorio
+
+<img src="https://drive.google.com/uc?id=1S9vo6x1lY4SQQ-22zFujrvLbdRiXuhCa" style="width:600px;height:337px;">]]></description>
+        <TimeStamp>
+          <when>2023:06:26 12:53:44</when>
+        </TimeStamp>
+        <ExtendedData>
+          <SchemaData schemaUrl="#test.schema">
+            <SimpleData name="Unnamed: 0">40</SimpleData>
+            <SimpleData name="terreno">Cuenca Norte</SimpleData>
+            <SimpleData name="formacion">Fm. San Gregorio</SimpleData>
+            <SimpleData name="lat">-32.6580390833333</SimpleData>
+            <SimpleData name="lon">-54.5819701944444</SimpleData>
+            <SimpleData name="ruta">https://drive.google.com/uc?id=1S9vo6x1lY4SQQ-22zFujrvLbdRiXuhCa</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -54.5819701944444,-32.6580390833333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
